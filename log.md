@@ -5,7 +5,7 @@
 
 **Today's Progress**: Talked with Suraj on our plans and goals for this challenge. We will be starting this challenge on 1/9/2019.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
 ### Day 1: January 9, Thursday
 
@@ -13,5 +13,4 @@
 
 **Thoughts** 
 **Link(s) to work**
-1. 
-2. 
+
