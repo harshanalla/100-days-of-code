@@ -9,8 +9,16 @@
 
 ### Day 1: January 9, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Reviewed Object Oriented Programming concepts, data base design, and completed a few 1 star challenged on hacker rank.
 
-**Thoughts** 
+**Thoughts**: --
 **Link(s) to work**
+
+### Day 2: January 10, Friday
+
+**Today's Progress**:
+
+**Thoughts**: --
+**Link(s) to work**
+
 
