@@ -16,7 +16,14 @@
 
 ### Day 2: January 10, Friday
 
-**Today's Progress**:
+**Today's Progress**: Continued my review of Object Oriented Programming Concepts and finished some SQL Interview questions online in preparation for my Interviews. 
+
+**Thoughts**: --
+**Link(s) to work**
+
+### Day 3: January 11, Saturday
+
+**Today's Progress**: Finished 2 Easy and 1 Medium challenge on Hackerrank Euler challenges. I'm starting to research into PI's for home automation project 
 
 **Thoughts**: --
 **Link(s) to work**
