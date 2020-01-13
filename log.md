@@ -30,7 +30,7 @@
 
 ### Day 4: January 12, Sunday
 
-**Today's Progress**: Intiated the facial recognition project. Today was primarily spent on setting up my environment and playing around with opencv. I am excited for tomorrow. Hopefull my repo works.
+**Today's Progress**: Intiated the facial recognition project. Today was primarily spent on setting up my environment and playing around with opencv. My code can now identify a face staring right at the camera, I need to mess around with the sensitivity. I am excited for tomorrow. Hopefull my repo works.
 
 **Thoughts**: First time that I'm looking forward to the next day.
 **Link(s)**: https://github.com/harshanalla/facial_recognition
