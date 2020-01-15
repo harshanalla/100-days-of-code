@@ -35,3 +35,7 @@
 **Thoughts**: First time that I'm looking forward to the next day.
 **Link(s)**: https://github.com/harshanalla/facial_recognition
 
+###Day 5 & 6: January 13,14th
+
+**Progress:** Worked on Udemy course work.
+
