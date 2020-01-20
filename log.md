@@ -39,3 +39,15 @@
 
 **Progress:** Worked on Udemy course work.
 
+### Day 7,8 & 9: January 15 - 17th
+**Progress:** Worked on Udemy course work.
+
+### Day 10: January 18th
+**Progress:** Attempted to set up motioneyeos on my rasberry pi zero (w). Unable access the web interface
+
+**Thoughts:** I should look into alternative OS (?)
+
+### Day 11: January 19th
+**Progress:** Finished setting up motioneyesos on the raspi. Was also able to connect my faces.py script to the media streaming port of the camera. 
+
+**Thoughts**: I should have looked into whether the pi zero (w) supported 5GHZ *it doesn't*. I wasted a lot of time.
